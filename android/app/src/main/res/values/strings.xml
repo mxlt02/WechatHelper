@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applicationName">我信助手</string>
+    <string name="applicationDescription">
+        我信助手是免费的,无广告的,离线的应用.不入侵微信代码,零网络请求,您的数据隐私都在您手中.
+    </string>
+</resources>

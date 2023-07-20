@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="top.mxlt.wechathelper">
+    <!-- Flutter needs it to communicate with the running application
+         to allow tool breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
