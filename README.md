@@ -3,6 +3,8 @@
 > Author:AlanZhao.
 >
 
+![https://github.com/mxlt02/WechatHelper/blob/main/%E6%95%99%E7%A8%8B/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88.png?raw=true](https://github.com/mxlt02/WechatHelper/blob/main/%E6%95%99%E7%A8%8B/%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88.png?raw=true)
+
 ## Getting Started
 
 ```
@@ -35,14 +37,14 @@ flutter build apk --target-platform android-arm,android-arm64,android-x64 --spli
 >         offstage: 布尔值,    当为true时,将隐藏组件且不保留空间位置
 >         child: 组件,
 >       )
->   
+>     
 >     class _HomeState extends State<Home> {
 >       @override
 >       Widget build(BuildContext context) {
 >         return Container(
 >            child: ListView(
 >              children: <Widget>[
->   
+>     
 >                Offstage(
 >                  offstage: true,
 >                  child: Text('ahh'),
